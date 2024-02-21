@@ -1,3 +1,6 @@
+
+{/*seed en el contesto de una bd  util cuando desea tener algunos 
+datos con los que trabajar mientras crea su aplicación   */}
 const { db } = require('@vercel/postgres');
 const {
   invoices,
